@@ -1,3 +1,3 @@
 hello im readme
 
-<img src="pista.jpg">
+<img src="img/pista.jpg">
